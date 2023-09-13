@@ -1,4 +1,4 @@
-# Speedtest dashboard widget for pfSense
+# Speedtest dashboard widget for pfSense working with pfSense 2.7
 
 ## Install
 
